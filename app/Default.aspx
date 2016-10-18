@@ -4,6 +4,7 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
+    <link type="stylesheet" rel="text/css" href="js/angular.min.js"/>
     <title></title>
 </head>
 <body>
